@@ -1,0 +1,9 @@
+Par = 'ParImpar'
+
+i = int(input("coloque um numero e ver se e par:"))
+
+if i % 2 == 0:
+ print("par")
+else:
+ print("impar")
+
